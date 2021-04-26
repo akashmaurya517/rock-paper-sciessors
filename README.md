@@ -29,6 +29,11 @@ while running the next cell you have to make a hand gesture of the corresponding
 
 ### I have encoded the class labels for both training and testing data as below
 class Rock → 0
+
 class paper→ 1
+
 class scissors → 2
 
+## How to use.
+1. Run the notebook code generat the data and make the model.
+2. run play_game.py to play the game
