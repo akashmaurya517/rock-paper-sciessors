@@ -35,5 +35,5 @@ class paper→ 1
 class scissors → 2
 
 ## How to use.
-1. Run the notebook code generat the data and make the model.
+1. Run the notebook code generat the data and make the model.(make sure the directories are made)
 2. run play_game.py to play the game
